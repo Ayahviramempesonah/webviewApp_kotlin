@@ -20,4 +20,18 @@ class MainActivity : AppCompatActivity() {
 
 
     }
+
+    fun klik2(view: View) {
+        val intent2 = Intent(this,HalamanYasinOfline::class.java)
+        startActivity(intent2)
+
+    }
+    fun klik3(view: View) {
+        val intent3 = Intent(this,HalamanAbout ::class.java)
+        startActivity(intent3)
+
+
+    }
+
+
 }

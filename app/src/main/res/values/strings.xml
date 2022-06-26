@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">YaseenWeb App</string>
+    <string name="app_name">YasinWeb App</string>
     <string name="go">GO TO WEBVIEW</string>
     <string name="hallo">hallo kamu ada di halaman ke2</string>
     <string name="yasin_online">YASIN ONLINE</string>
     <string name="yasin_ofline">YASIN OFLINE</string>
     <string name="about_me">ABOUT ME</string>
+    <string name="sdg_dalam">SEDANG DALAM PENGEMBANGAN PLEASE WAIT !!</string>
+    <string name="ganteng">NANTI DSINI AKAN ADA FOTO ORANG GANTENG, TAPI NANTI DULU YA,, SEBAB BELUM MANDI</string>
+
+
+
 </resources>
